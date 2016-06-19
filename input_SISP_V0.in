@@ -1,0 +1,56 @@
+Inputfile for "SISP_spadiseius"
+
+Start parameters:
+habitat capacity
+100
+lambda 0 (fertility)
+4
+sigma (environmental variability) NOTE DO NOT CHANGE -> size of array is limited!!!
+0
+max patch age
+3
+mutation rate
+1e-03
+no. of simulated generations
+3000
+
+dispersal capacity Artibeus (75)
+75
+dispersal capacity Chasmodia (50)
+50
+dispersal capacity Cholus (10)
+10
+dispersal capacity Trigona (5)
+5
+dispersal distance Artibeus (20)
+5
+dispersal distance Chasmodia (40)
+10
+dispersal distance Cholus (2)
+1
+dispersal distance Trigona (15)
+4
+dispersal mortality Artibeus (0.5)
+0.5
+dispersal mortality Chasmodia (0.4)
+0.4
+dispersal mortality Cholus (0.6)
+0.6
+dispersal mortality Trigona (0.5)
+0.5
+dispersal rate Artibeus (0.07)
+0.07
+dispersal rate Chasmodia (0.02)
+0.02
+dispersal rate Cholus (0.04)
+0.04
+dispersal rate Trigona (0.7)
+0.7
+info patch age Artibeus (false)
+false
+info patch age Chasmodia (false)
+false
+info patch age Cholus (true)
+true
+info patch age Trigona (true)
+true
